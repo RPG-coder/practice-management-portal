@@ -1,4 +1,4 @@
-<h1 align=center>practice-management-portal</h1>
+<h1 align=center>Practice Management Portal</h1>
 <h4 align=center>CS673-Software Designs &amp; Production Methodology</h4>
 <h4 align=center>Instructed by Prof. Prabhat Vaish</h4>
 
@@ -7,7 +7,7 @@
 ## Team 6 Contributors
 <table>
   <thead>
-    <th><td>Names</td><td>Roles</td></th>
+    <tr><th>Names</th><th>Roles</th></tr>
   </thead>
   <tbody>
     <tr><td>Raj Patel</td><td>UI Developer</td></tr>
@@ -28,5 +28,23 @@ Far vision here...
 Near vision for the 1st Iteration here...
 
 ### Stakeholder Details
-Stakeholders
+- Atleast 3 Stakeholder Types
+- User Persona for real stakehlders details
 
+# Product Backlog Details
+- Pivitol Tracker Link
+- Atleast 10 product backlog
+- Product Backlog items
+<table>
+  <thead>
+    <tr><th>Sno.</th><th>Title</th><th>User story opening sentence</th><th>Additional details</th><th>Estimated Date in story points</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>Title</td><td>User story opening sentence</td><td>Additional details</td><td>Estimated Date in story points</td></tr>
+  </tbody>
+</table>
+
+- Estimate PBI's in story points
+
+## Documenting Activity 
+- Team relative size estimating activity
