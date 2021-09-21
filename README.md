@@ -28,8 +28,20 @@ Far vision here...
 Near vision for the 1st Iteration here...
 
 ### Stakeholder Details
-- Atleast 3 Stakeholder Types
-- User Persona for real stakehlders details
+- Project Stakeholder list
+<table>
+  <thead>
+    <tr><th>Internal</th><th>External</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Practice Management</td><td>Patients</td></tr>
+    <tr><td>Doctors</td><td>Insurance Company</td></tr>
+    <tr><td>Nurses</td><td>Pharmacy (Medical Providers)</td></tr>
+    <tr><td>Lab Technicians</td><td></td></tr>
+  </tbody>
+</table>
+
+- FIXME: User Persona for real stakeholders details
 
 # Product Backlog Details
 - Pivitol Tracker Link
