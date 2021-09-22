@@ -21,11 +21,66 @@
 
 ## TEAM 6 Product Vision
 ### Far Vision
-Far vision here...
+<table>
+  <tbody>
+    <tr><td>FOR <u>Practice Managers</u></td></tr>
+    <tr><td>WHO <u>are in need of a simplified way to showcase all their patient details and looking to improve relation with patient</u></td></tr>
+    <tr><td>THE <u>Practice Management System</u> IS A <u>Charting, Dashboard and a Management application</u></td></tr>
+    <tr><td>THAT <u>assist managing patient details in a single view</u></td></tr>
+    <tr><td>OUR PRODUCT <u> make the patient management process easier, giving a better understanding of a patient and maintains all aspects of patient details with a simple interface</u></td></tr>
+  </tbody>
+</table>
 
 ### Near Vision
 #### First Iteration
-Near vision for the 1st Iteration here...
+<table>
+  <tbody>
+    <tr><td>FOR <u>Doctors and Nurses</u></td></tr>
+    <tr><td>WHO <u>are in need for taking a quick check at their patient details</u></td></tr>
+    <tr><td>THE <u>Patient Chart</u> IS A <u>Management application</u></td></tr>
+    <tr><td>THAT <u>efficiently stores the details of all patient</u></td></tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr><td>FOR <u>Practice Managers and Doctors</u></td></tr>
+    <tr><td>WHO <u>are in need to schedule and record patient's visit</u></td></tr>
+    <tr><td>THE <u>Visit section</u> IS A <u>Scheduling system</u></td></tr>
+    <tr><td>THAT <u>showcases a patient's visit in the past, present or in the future</u></td></tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr><td>FOR <u>Practice Managers</u></td></tr>
+    <tr><td>WHO <u>need information about the medical coverage and benefits the a patient have</u></td></tr>
+    <tr><td>THE <u>Insurance section</u> IS A <u>Information Presentation Software</u></td></tr>
+    <tr><td>THAT <u>gives a simple understanding of the medical coverage and benefits of a particular patient</u></td></tr>
+    <tr><td>OUR PRODUCT provide a secure for approach for retrieving such confidential information</td></tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr><td>FOR <u>Practice Manager</u></td></tr>
+    <tr><td>WHO <u>may need to understand socioeconomic information of a patient</u></td></tr>
+    <tr><td>THE <u>Demographic section</u> IS A <u>Information Presentation Software</u></td></tr>
+    <tr><td>THAT <u>presents the socioeconomic information of a patient</u></td></tr>
+    <tr><td>OUR PRODUCT provide a secure for approach for retrieving such confidential information</td></tr>
+  </tbody>
+</table>
+
+
+<table>
+  <tbody>
+    <tr><td>FOR <u>Lab Technicians and Doctors</u></td></tr>
+    <tr><td>WHO <u>need a simple interface and interaction for conducting and specifing a lab test</u></td></tr>
+    <tr><td>THE <u>Lab section</u> IS A <u>Lab Diagnostic Software</u></td></tr>
+    <tr><td>THAT <u>displays a the lab checks that must be carried or completed by a patient</u></td></tr>
+    <tr><td>OUR PRODUCT provide a secure for approach for retrieving such confidential information</td></tr>
+  </tbody>
+</table>
 
 ### Stakeholder Details
 - Project Stakeholder list
@@ -44,19 +99,11 @@ Near vision for the 1st Iteration here...
 - FIXME: User Persona for real stakeholders details
 
 # Product Backlog Details
-- Pivitol Tracker Link
-- Atleast 10 product backlog
-- Product Backlog items
-<table>
-  <thead>
-    <tr><th>Sno.</th><th>Title</th><th>User story opening sentence</th><th>Additional details</th><th>Estimated Date in story points</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>1</td><td>Title</td><td>User story opening sentence</td><td>Additional details</td><td>Estimated Date in story points</td></tr>
-  </tbody>
-</table>
+- Pivitol Tracker: https://www.pivotaltracker.com/projects/2533209
 
-- Estimate PBI's in story points
+  - Atleast 10 product backlog
+  - Product Backlog items
+  - Estimate PBI's in story points
 
 ## Documenting Activity 
 - Team relative size estimating activity
