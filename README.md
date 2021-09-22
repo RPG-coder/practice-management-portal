@@ -33,6 +33,8 @@ Below are the events what we deliver in the long run:
   </tbody>
 </table>
 
+- An eloborated version of the Far vision is under development and will be presented soon.
+
 ### Near Vision
 Below are the events what we expect to meet in near future:
 
