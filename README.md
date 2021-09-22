@@ -4,7 +4,7 @@
 
 ## TEAM 6
 
-## Team 6 Contributors
+## Team 6 Rooster (Collaborators)
 <table>
   <thead>
     <tr><th>Names</th><th>Roles</th></tr>
@@ -21,6 +21,8 @@
 
 ## TEAM 6 Product Vision
 ### Far Vision
+Below are the events what we deliver in the long run:
+
 <table>
   <tbody>
     <tr><td>FOR <u>Practice Managers</u></td></tr>
@@ -32,7 +34,8 @@
 </table>
 
 ### Near Vision
-#### First Iteration
+Below are the events what we expect to meet in near future:
+
 <table>
   <tbody>
     <tr><td>FOR <u>Doctors and Nurses</u></td></tr>
@@ -71,7 +74,6 @@
   </tbody>
 </table>
 
-
 <table>
   <tbody>
     <tr><td>FOR <u>Lab Technicians and Doctors</u></td></tr>
@@ -83,7 +85,7 @@
 </table>
 
 ### Stakeholder Details
-- Project Stakeholder list
+- Following are the necessary stakeholders, for whom our project is delivering an efficient solution:
 <table>
   <thead>
     <tr><th>Internal</th><th>External</th></tr>
@@ -101,9 +103,10 @@
 # Product Backlog Details
 - Pivitol Tracker: https://www.pivotaltracker.com/projects/2533209
 
+- FIXME:
   - Atleast 10 product backlog
   - Product Backlog items
   - Estimate PBI's in story points
 
 ## Documenting Activity 
-- Team relative size estimating activity
+- FIXME: Team relative size estimating activity
