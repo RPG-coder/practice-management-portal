@@ -29,7 +29,7 @@ Below are the events what we deliver in the long run:
     <tr><td>WHO <u>are in need of a simplified way to showcase all their patient details and looking to improve relation with patient</u></td></tr>
     <tr><td>THE <u>Practice Management System</u> IS A <u>Charting, Dashboard and a Management application</u></td></tr>
     <tr><td>THAT <u>assist managing patient details in a single view</u></td></tr>
-    <tr><td>OUR PRODUCT <u> make the patient management process easier, giving a better understanding of a patient and maintains all aspects of patient details with a simple interface</u></td></tr>
+    <tr><td>OUR PRODUCT <u> make the patient management process easier, giving a better understanding of a patient and maintains all aspects of patient details</u></td></tr>
   </tbody>
 </table>
 
