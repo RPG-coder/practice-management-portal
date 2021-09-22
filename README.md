@@ -2,7 +2,7 @@
 <h4 align=center>CS673-Software Designs &amp; Production Methodology</h4>
 <h4 align=center>Instructed by Prof. Prabhat Vaish</h4>
 
-## TEAM 6 ## T
+## TEAM 6
 
 ## Team 6 Rooster (Collaborators)
 <table>
