@@ -1,114 +1,27 @@
-<h1 align=center>Practice Management Portal</h1>
+<h1 align=center>Practice Management Portal (CHARTING)</h1>
 <h4 align=center>CS673-Software Designs &amp; Production Methodology</h4>
 <h4 align=center>Instructed by Prof. Prabhat Vaish</h4>
 
-## TEAM 6
+## Scrum Team: Team 6
+Our team is working on the Practice management Portal, in specific the charting's aspect, which is a one place viewing of the patients details. The details can comprise of who the patient are?, Details about the medical and physical details underlying that particular patient? and getting a picture of which doctors have the individual patient visited, currently attending or visiting soon, in short the appointment records. This is the responsibility of Scrum team 6, whose members comprise of:
 
-## Team 6 Rooster (Collaborators)
-<table>
+<table align=center>
   <thead>
     <tr><th>Names</th><th>Roles</th></tr>
   </thead>
   <tbody>
-    <tr><td>Raj Patel</td><td>UI Developer</td></tr>
     <tr><td>Himani Patel</td><td>Business Analyst</td></tr>
+    <tr><td>Raj Patel</td><td>UI Developer</td></tr>
     <tr><td>Akshay Mutha</td><td>Microservices Developer</td></tr>
-    <tr><td>Abhishek Bagora</td><td>Quality & DevOps Engineer</td></tr>
     <tr><td>Rahul Gautham Putcha</td><td>Data Architect</td></tr>
+    <tr><td>Abhishek Bagora</td><td>Quality & DevOps Engineer</td></tr>
   </tbody>
 </table>
 
+## Product Vision
+**Far vision:** FOR a Practice Manager WHO is responsible for meeting everything that occurs during a patients encounter, THE Practice Management Portal is a Digital Health and Practice mangagement system THAT provides a way to organize and optimize patient's flow, office workflow, to procedures and tasks.
 
-## TEAM 6 Product Vision
-### Far Vision
-Below are the events what we deliver in the long run:
+More details on the far vision is coming soon ...
 
-<table>
-  <tbody>
-    <tr><td>FOR <u>Practice Managers</u></td></tr>
-    <tr><td>WHO <u>are in need of a simplified way to showcase all their patient details and looking to improve relation with patient</u></td></tr>
-    <tr><td>THE <u>Practice Management System</u> IS A <u>Charting, Dashboard and a Management application</u></td></tr>
-    <tr><td>THAT <u>assist managing patient details in a single view</u></td></tr>
-    <tr><td>OUR PRODUCT <u> make the patient management process easier, giving a better understanding of a patient and maintains all aspects of patient details</u></td></tr>
-  </tbody>
-</table>
-
-- An eloborated version of the Far vision is under development and will be presented soon.
-
-### Near Vision
-Below are the events what we expect to meet in near future:
-
-<table>
-  <tbody>
-    <tr><td>FOR <u>Doctors and Nurses</u></td></tr>
-    <tr><td>WHO <u>are in need for taking a quick check at their patient details</u></td></tr>
-    <tr><td>THE <u>Patient Chart</u> IS A <u>Management application</u></td></tr>
-    <tr><td>THAT <u>efficiently stores the details of all patient</u></td></tr>
-  </tbody>
-</table>
-
-<table>
-  <tbody>
-    <tr><td>FOR <u>Practice Managers and Doctors</u></td></tr>
-    <tr><td>WHO <u>are in need to schedule and record patient's visit</u></td></tr>
-    <tr><td>THE <u>Visit section</u> IS A <u>Scheduling system</u></td></tr>
-    <tr><td>THAT <u>showcases a patient's visit in the past, present or in the future</u></td></tr>
-  </tbody>
-</table>
-
-<table>
-  <tbody>
-    <tr><td>FOR <u>Practice Managers</u></td></tr>
-    <tr><td>WHO <u>need information about the medical coverage and benefits the a patient have</u></td></tr>
-    <tr><td>THE <u>Insurance section</u> IS A <u>Information Presentation Software</u></td></tr>
-    <tr><td>THAT <u>gives a simple understanding of the medical coverage and benefits of a particular patient</u></td></tr>
-    <tr><td>OUR PRODUCT provide a secure for approach for retrieving such confidential information</td></tr>
-  </tbody>
-</table>
-
-<table>
-  <tbody>
-    <tr><td>FOR <u>Practice Manager</u></td></tr>
-    <tr><td>WHO <u>may need to understand socioeconomic information of a patient</u></td></tr>
-    <tr><td>THE <u>Demographic section</u> IS A <u>Information Presentation Software</u></td></tr>
-    <tr><td>THAT <u>presents the socioeconomic information of a patient</u></td></tr>
-    <tr><td>OUR PRODUCT provide a secure for approach for retrieving such confidential information</td></tr>
-  </tbody>
-</table>
-
-<table>
-  <tbody>
-    <tr><td>FOR <u>Lab Technicians and Doctors</u></td></tr>
-    <tr><td>WHO <u>need a simple interface and interaction for conducting and specifing a lab test</u></td></tr>
-    <tr><td>THE <u>Lab section</u> IS A <u>Lab Diagnostic Software</u></td></tr>
-    <tr><td>THAT <u>displays a the lab checks that must be carried or completed by a patient</u></td></tr>
-    <tr><td>OUR PRODUCT provide a secure for approach for retrieving such confidential information</td></tr>
-  </tbody>
-</table>
-
-### Stakeholder Details
-- Following are the necessary stakeholders, for whom our project is delivering an efficient solution:
-<table>
-  <thead>
-    <tr><th>Internal</th><th>External</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>Practice Management</td><td>Patients</td></tr>
-    <tr><td>Doctors</td><td>Insurance Company</td></tr>
-    <tr><td>Nurses</td><td>Pharmacy (Medical Providers)</td></tr>
-    <tr><td>Lab Technicians</td><td></td></tr>
-  </tbody>
-</table>
-
-- FIXME: User Persona for real stakeholders details
-
-# Product Backlog Details
-- Pivitol Tracker: https://www.pivotaltracker.com/projects/2533209
-
-- FIXME:
-  - Atleast 10 product backlog
-  - Product Backlog items
-  - Estimate PBI's in story points
-
-## Documenting Activity 
-- FIXME: Team relative size estimating activity
+**Near vision:** 
+  
