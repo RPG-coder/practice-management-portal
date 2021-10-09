@@ -62,7 +62,7 @@ This section outlines the clear state/goal of developing the product, Practice M
 - **Practice management:** <span align=justify>he Practice Manager is responsible for everything else that occurs during a patient encounter. From the organizing and optimizing of patient flow, office workflows, to procedures and tasks. The mission of the practice manager is to allow the doctor to remain focused on treating patients, minus the burden of running the office. The primary concern of a medical practice manager is that the physician gets paid properly for services rendered. The responsibilities of a practice manager stretch across administrative, legal, financial, technological and more.</span>
 
 ## Product Backlogs: What to expect soon?...
-- link
+- [PivotalTracker link] (https://www.pivotaltracker.com/n/projects/2533209)
 
 <table>
   <thead>
