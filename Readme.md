@@ -14,7 +14,7 @@
 
 
 ## Scrum Team: Team 6
-<p align=justify>Our team is working on the Practice management Portal, in specific the charting's aspect, which is a one place viewing of the patients details. The details can comprise of who the patient are?, Details about the medical and physical details underlying that particular patient? and getting a picture of which doctors have the individual patient visited, currently attending or visiting soon, in short the appointment records. This is the responsibility of Scrum team 6, whose members comprise of:</p>
+<p align=justify>This team is working on the Practice management Portal, which is a one place viewing of the patients details. The details can comprise of who the patient are?, Details about the medical and physical details underlying that particular patient? and getting a picture of which doctors have the individual patient visited, currently attending or visiting soon, in short the appointment records. This is the responsibility of Scrum team 6, whose members comprise of:</p>
 
 <table align=center>
   <thead>
@@ -33,10 +33,10 @@
 <p align=justify>This section outlines the clear state/goal of developing the product, Practice Management Portal for Charting. In particular, this part focuses on who our customers are?, what's their need? and why are we doing this (goal)?</p>
 
 ### Far vision:
-<p align=justify>FOR the patient care WHO needs all vital information about their patient in one consise view, THE Practice Management Portal for Charting IS A Digital Health and Practice mangagement application THAT allows the user to understand about the patient for making the best and quickest healthcare decisions. UNLIKE any legacy systems used to showcasing the patient details, OUR PRODUCT emphasizes on giving a valuable experience in understanding a patient's records even better and simpler.</p>
+<p align=justify>FOR the patient care WHO needs all vital information about their patient in one consise view, THE Practice Management Portal for Charting IS A Digital Health and Practice mangagement application THAT allows a user to understand about the patient for making the best and quickest healthcare decisions along with managing the medical practice dealings. UNLIKE any legacy systems used for showcasing the patient details and practice management, OUR PRODUCT emphasizes on giving a valuable experience in putting forward the patient's record details and assist all internal healthcare organization users in their working even better.</p>
 
 ### Near vision:
-<p align=justify>FOR the patient care WHO needs a simple interface for portraying their patient details, THE Charting section IS A prototype for a Patient Information Display THAT provides a simple layout for viewing the patient's current vitals and scheduled appointments. UNLIKE any legacy Patient Information Displaying system, OUR PRODUCT intuitively divides the verbose patient's details into clean and easily distinguishable format.</p>
+<p align=justify>FOR the patient care WHO needs a simple interface for portraying their patient details, THE Management Portal IS A prototype for a Patient Information Display THAT provides a simple layout for viewing the patient's current vitals and scheduled appointments. UNLIKE any legacy Patient Information Displaying system, OUR PRODUCT intuitively divides the verbose patient's details into clean and easily distinguishable format.</p>
 
 ## Stakeholders: Who is this for?...
 <p align=justify>The following are the stakeholders who are interested in the product, Practice Management portal for Charting, and are not part of our Scrum Team.</p>
@@ -59,17 +59,17 @@
 ## User persona: Understanding the users, their experience and their requirements w.r.t the product
 <p align=justify>This section gives a character potrait of a user that is using the product, Patient Management portal for charting.</p>
 
-- **Doctors:** <span align=justify>Doctors are the primary care for all patients. With them attending a number of patients and maintaining a strong relationship with them, while attending their case, a doctor may find it troubling to keep record of their patient on files and papers. They also need to make the process of retrival easier. And lastly, they need a concise and neat picture of who and what the patient is?, what the severity of the patient case?, how many time have the patient visited them prior to current meet or date.</span>
+- **Doctors:** <span align=justify>Doctors are the primary care for all patients. They keep attending a number of patients and maintaining a strong relationship with them. While attending their case, a doctor may find it troubling to keep record of their patient on files and papers. They may also require to have the process of document retrival easier and responsive. And lastly, they need a concise and neat picture of who and what the patient is?, what the severity of the patient case?, how many time have the patient visited them prior to current meet or date.</span>
 
-- **Nurses:** <span align=justify>Nurses are the secondary or supporting care for all patients. They are the substitute when a doctor is not able to attend a patient's case due to the meeting of an another severe case. During an emergency when a doctor is not available, a nurse may need to understand the details about their patient. Especially the patient vital. On checking, they are able to give a proper emergency medication depending on the condition and illness patient is suffering.</span>
+- **Nurses:** <span align=justify>Nurses are the secondary or supporting care for all patients. They are the substitute when a doctor is not able to attend a patient's case due to the meeting of an another severe case. During an emergency when a doctor is not available, a nurse may need to understand the details about their patient. Especially the patient vital and lab reports or medications they should provide. Upon checking, they would be able to deliver a proper emergency medication depending on the condition and illness patient is suffering.</span>
 
-- **Practice management:** <span align=justify>he Practice Manager is responsible for everything else that occurs during a patient encounter. From the organizing and optimizing of patient flow, office workflows, to procedures and tasks. The mission of the practice manager is to allow the doctor to remain focused on treating patients, minus the burden of running the office. The primary concern of a medical practice manager is that the physician gets paid properly for services rendered. The responsibilities of a practice manager stretch across administrative, legal, financial, technological and more.</span>
+- **Practice management:** <span align=justify>The Practice Managers are responsible for everything else that occurs during a patient encounter. From the organizing and optimizing of patient flow, office workflows, to procedures and tasks. The mission of the practice manager is to allow the doctor to remain focused on treating patients, minus the burden of running the office. The primary concern of a medical practice manager is that the physician gets paid properly for services rendered. The responsibilities of a practice manager stretch across administrative, legal, financial, technological and more.</span>
 
 ## Product Backlogs: What to expect soon?...
 - The progress of this project is tracked via Pivotal Tracker. For more details please visit, [PivotalTracker link](https://www.pivotaltracker.com/projects/2533209)
 - All product backlogs are based on SMART.
 - **SMART** - Specific Measured Achievable Relevant Time-Constraint
-- Below are the sample product backlogs that my team is looking forward to complete in near vision:
+- Below are the sample product backlogs that my team is looking forward to complete as part of the near vision:
 
 <table>
   <thead>
