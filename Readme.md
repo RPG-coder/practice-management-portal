@@ -100,3 +100,6 @@ The team has agreed to work the product with the relative size estimates, descri
 - 1 Story point: 10 person hours
 - 2 Story points: 15 person hours
 - 3 Story point: 20 person hours
+
+
+<hr />
