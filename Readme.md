@@ -1,4 +1,4 @@
-<h1 align=center>Practice Management Portal (Charting)</h1>
+<h1 align=center>Practice Management Portal</h1>
 <h4 align=center>CS673-Software Designs &amp; Production Methodology</h4>
 <h4 align=center>Instructed by Prof. Prabhat Vaish</h4>
 
