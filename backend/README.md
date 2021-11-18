@@ -18,17 +18,22 @@ Things you may want to cover:
 
 * Configuration
 1. Execute below line to install all packages belonging to ruby and rails. \
-IMPORTANT: this may require ruby, rails and node.js installed in the system. \
+IMPORTANT: this may require ruby, rails and node.js installed in the system.
+
     > bundle install
+    
 2. Install MySQL
     - Install MySQL: https://dev.mysql.com/downloads/installer/
     - Set 3 Users: namely pmp_development, pmp_testing, pmp_production
     - Above defines the application environment. If you are running the application you may require the "pmp_production only"
     - Configure the ".env" file located in ./config/.env with Local MySQL User's Password
 
-3. After installing MySQL we need to connect our rails application to MySQL database. For this we have used the package mysql2, that connects the database using MySQL's C++ connector. Suppose the MySQL folder is located at directory "C:\Program Files\MySQL", we can use this connector within mysql2 gem package by following command from terminal inside the project's root folder for the "backend" application. \
-    > gem install mysql2 -- --with-mysql-lib="location for the lib folder in MySQL connector's directory" --with-mysql-dir="location for the MySQL connector's directory" --with-mysql-include="location for the include folder in MySQL connector's directory" \
-Above cmd can be rephrased as below when MySQL 8.0 is installed with the default configuration setup: \
+3. After installing MySQL we need to connect our rails application to MySQL database. For this we have used the package mysql2, that connects the database using MySQL's C++ connector. Suppose the MySQL folder is located at directory "C:\Program Files\MySQL", we can use this connector within mysql2 gem package by following command from terminal inside the project's root folder for the "backend" application.
+
+    > gem install mysql2 -- --with-mysql-lib="location for the lib folder in MySQL connector's directory" --with-mysql-dir="location for the MySQL connector's directory" --with-mysql-include="location for the include folder in MySQL connector's directory"
+
+Above cmd can be rephrased as below when MySQL 8.0 is installed with the default configuration setup:
+
     > gem install mysql2 -- --with-mysql-lib="C:\Program Files\MySQL\Connector C++ 8.0\lib64" --with-mysql-dir="C:\Program Files\MySQL\Connector C++ 8.0" --with-mysql-include="C:\Program Files\MySQL\Connector C++ 8.0\include"
 
 
