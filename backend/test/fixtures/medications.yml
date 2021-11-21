@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  patientId: MyString
+  doctorId: MyString
+  medicationId: MyString
+  medicationName: MyString
+  medicationRoutine: MyString
+  tillDate: 2021-11-20 11:44:13
+  description: MyText
+
+two:
+  patientId: MyString
+  doctorId: MyString
+  medicationId: MyString
+  medicationName: MyString
+  medicationRoutine: MyString
+  tillDate: 2021-11-20 11:44:13
+  description: MyText

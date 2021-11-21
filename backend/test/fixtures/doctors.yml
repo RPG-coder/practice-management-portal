@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  doctorsId: MyString
+  totalPatients: 1
+  departmentId: MyString
+  specializationDepartment: MyString
+  doctorDescription: MyText
+  yearsOfExperience: 1
+
+two:
+  doctorsId: MyString
+  totalPatients: 1
+  departmentId: MyString
+  specializationDepartment: MyString
+  doctorDescription: MyText
+  yearsOfExperience: 1

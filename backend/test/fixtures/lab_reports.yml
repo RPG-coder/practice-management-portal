@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  patientId: MyString
+  doctorId: MyString
+  reportId: MyString
+  reportName: MyString
+  filepath: MyString
+  dueBy: 2021-11-20 11:43:58
+  description: MyText
+
+two:
+  patientId: MyString
+  doctorId: MyString
+  reportId: MyString
+  reportName: MyString
+  filepath: MyString
+  dueBy: 2021-11-20 11:43:58
+  description: MyText
