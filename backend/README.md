@@ -32,7 +32,7 @@ Things Covered:
     > bundle install
     
 2. Install MySQL
-    - [Install MySQL](https://dev.mysql.com/downloads/installer/)
+    - [Install MySQL](https://dev.mysql.com/downloads/installer/) 
     - Set 3 Users: namely pmp_development, pmp_testing, pmp_production
     - Above defines the application environment. If you are running the application you may require the "pmp_production only"
     - Configure the ".env" file located in ./config/.env with Local MySQL User's Password
