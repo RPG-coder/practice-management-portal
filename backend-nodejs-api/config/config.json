@@ -1,0 +1,23 @@
+{
+  "development": {   
+    "username": "pmp_development",
+    "password": "PASSword@123",
+    "database": "practice_management_portal",
+    "host": "cs673-prac-mgmt-portal.mysql.database.azure.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "pmp_development",
+    "password": "PASSword@123",
+    "database": "practice_management_portal",
+    "host": "cs673-prac-mgmt-portal.mysql.database.azure.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "pmp_development",
+    "password": "PASSword@123",
+    "database": "practice_management_portal",
+    "host": "cs673-prac-mgmt-portal.mysql.database.azure.com",
+    "dialect": "mysql"
+  }
+}
