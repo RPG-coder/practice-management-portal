@@ -1,0 +1,100 @@
+{
+	"info": {
+		"_postman_id": "c5161156-66a0-4cb1-afc5-381f1f5fa071",
+		"name": "Appointment Scheduling",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "After Clicking Add Doctor Button (Change the Id)",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"doctorId\": 12309,\r\n    \"departmentName\": \"Nuerology\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://dry-ocean-01268.herokuapp.com/doctor",
+					"protocol": "https",
+					"host": [
+						"dry-ocean-01268",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"doctor"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "New Request",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"doctorId\": 123,\r\n    \"departmentName\": \"Nuerology\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://dry-ocean-01268.herokuapp.com/doctor",
+							"protocol": "https",
+							"host": [
+								"dry-ocean-01268",
+								"herokuapp",
+								"com"
+							],
+							"path": [
+								"doctor"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				}
+			]
+		},
+		{
+			"name": "After Clicking Add Appointment",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"doctorId\": 43211,\r\n    \"patientId\": 1000001\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://dry-ocean-01268.herokuapp.com/practicemanagement",
+					"protocol": "https",
+					"host": [
+						"dry-ocean-01268",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"practicemanagement"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

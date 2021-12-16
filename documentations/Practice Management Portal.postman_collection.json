@@ -1,0 +1,236 @@
+{
+	"info": {
+		"_postman_id": "c21faa42-d3ca-4bcb-9bb7-4ef7ed0bac7d",
+		"name": "Practice Management Portal",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "PracticeManagement (Doctor & Patient Interation Information)",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://dry-ocean-01268.herokuapp.com/practicemanagements?doctorId=2222&patientId=1111",
+					"protocol": "https",
+					"host": [
+						"dry-ocean-01268",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"practicemanagements"
+					],
+					"query": [
+						{
+							"key": "doctorId",
+							"value": "2222"
+						},
+						{
+							"key": "patientId",
+							"value": "1111"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Practice Management (If the interaction exists)",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"patientId\": 1111,\r\n    \"doctorId\": 2222\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://dry-ocean-01268.herokuapp.com/practicemanagement",
+					"protocol": "https",
+					"host": [
+						"dry-ocean-01268",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"practicemanagement"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Practice Management (For a new interaction)",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"patientId\": 4321,\r\n    \"doctorId\": 1234\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://dry-ocean-01268.herokuapp.com/practicemanagement",
+					"protocol": "https",
+					"host": [
+						"dry-ocean-01268",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"practicemanagement"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Doctor by Id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://dry-ocean-01268.herokuapp.com/doctor?doctorId=1",
+					"protocol": "https",
+					"host": [
+						"dry-ocean-01268",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"doctor"
+					],
+					"query": [
+						{
+							"key": "doctorId",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get All Nurses",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://dry-ocean-01268.herokuapp.com/nurses",
+					"protocol": "https",
+					"host": [
+						"dry-ocean-01268",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"nurses"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Nurse by Id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://dry-ocean-01268.herokuapp.com/nurse?nurseId=1",
+					"protocol": "https",
+					"host": [
+						"dry-ocean-01268",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"nurse"
+					],
+					"query": [
+						{
+							"key": "nurseId",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get All Doctor",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://dry-ocean-01268.herokuapp.com/doctors",
+					"protocol": "https",
+					"host": [
+						"dry-ocean-01268",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"doctors"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get All Practice Managers",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://dry-ocean-01268.herokuapp.com/manager?managerId=1",
+					"protocol": "https",
+					"host": [
+						"dry-ocean-01268",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"manager"
+					],
+					"query": [
+						{
+							"key": "managerId",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Practice Manager by Id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
