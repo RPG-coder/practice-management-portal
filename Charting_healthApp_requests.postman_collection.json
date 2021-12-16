@@ -1,0 +1,225 @@
+{
+	"info": {
+		"_postman_id": "ac09282b-8728-4787-9adf-19b8386f7cab",
+		"name": "Charting_healthApp_requests",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "get_employee",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:8080/doctor?empid=10",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"doctor"
+					],
+					"query": [
+						{
+							"key": "empid",
+							"value": "10"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "addEmployee",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\"doc_id\": \"106789\",\n\"doc_description\": \"I am a doctor. I love to take my patient health to next level and be friendly. I am looking forward to meet new patient and give them a better health care advisement.\",\n\"doc_totalPatients\": 0,\n\"doc_departmentId\": 12345,\n\"doc_yrsOfExp\": 29\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/addemployee",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"addemployee"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get_labReport",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:8080/labreport?reportid=3",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"labreport"
+					],
+					"query": [
+						{
+							"key": "reportid",
+							"value": "3"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "addLabReport",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"patientId\": 1111,\n    \"doctorId\": 2222,\n    \"reportId\": 3,\n    \"reportName\": \"Lab Report 1\",\n    \"worksheetFilepath\": \"https: //s3.us-west-2.amazonaws.com/mybucket/worksheet.pdf\",\n    \"patientFilepath\": \"https: //s3.us-west-2.amazonaws.com/mybucket/patientFile.pdf\",\n    \"description\": \"This is a lab report.\",\n    \"dueBy\": \"Dec 12, 2021, 3:22:26 AM\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:8080/addlabreport",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"addlabreport"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "addMedication",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"patientId\": 1111,\n    \"doctorId\": 2222,\n    \"medicationName\": \"Medication 3\",\n    \"medicationRoutine\": \"5 times daily\",\n    \"description\": \"to be followed regularly\",\n    \"tillDate\": \"Dec 5, 2021, 3:22:26 AM\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/addmedicationrecord",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"addmedicationrecord"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get_medication",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/medication?medicationid=2",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"medication"
+					],
+					"query": [
+						{
+							"key": "medicationid",
+							"value": "2"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get_allLabReports",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/getalllabreports",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"getalllabreports"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get_allMedicationReports",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/getallmedicationreports",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"getallmedicationreports"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
